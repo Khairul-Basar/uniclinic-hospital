@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Andrew Smith, MD",
+    "img": "https://i.ibb.co/MGH8SQR/smith.jpg",
+    "desc": "Our clinic accepts most major health insurance plans and providers to ensure you.",
+    "speciality": "Cancer Care"
+  },
+  {
+    "id": 2,
+    "name": "Adam Johnson, MD",
+    "img": "https://i.ibb.co/gzc2NPS/adam.jpg",
+    "desc": "He had a last view back on his hometown Bookmarksgrove, the headline of Alphabet Village.",
+    "speciality": "Gasto Care"
+  },
+  {
+    "id": 3,
+    "name": "Amy Brown, MD",
+    "img": "https://i.ibb.co/XFVFd2k/amy.jpg",
+    "desc": "A small river flows and supplies it with the necessary regelialia. It is roasted parts of sentences.",
+    "speciality": "Urgent Care"
+  },
+  {
+    "id": 4,
+    "name": "Maria, DO",
+    "img": "https://i.ibb.co/KrxjnkH/maria.jpg",
+    "desc": "Because there were thousands of bad Commasand devious Semikoli, but she didn’t listen.",
+    "speciality": "Eye Care"
+  },
+  {
+    "id": 5,
+    "name": "Jane Green, MD",
+    "img": "https://i.ibb.co/64SvgNH/jane.jpg",
+    "desc": "A small river flows and supplies it with the necessary regelialia. It is roasted parts of sentences.",
+    "speciality": "Primary Care"
+  },
+  {
+    "id": 6,
+    "name": "Helen Traum, MD",
+    "img": "https://i.ibb.co/XpqBtDX/helen.jpg",
+    "desc": "She had a last view back on  her hometown Bookmarksgrove, the headline of Alphabet Village.",
+    "speciality": "Orthopedic Care"
+  }
+]
